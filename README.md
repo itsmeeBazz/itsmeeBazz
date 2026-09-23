@@ -19,12 +19,6 @@ Here's a list of my tech stack and skills:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsmeBazz&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsmeBazz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=itsmeBazz&icon=5&color=0)](https://visitcount.itsvg.in)
 
